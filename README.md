@@ -1,0 +1,4 @@
+Garmin GFC 500 Autopilot Module by justjaxx on Thingiverse: https://www.thingiverse.com/thing:4640243
+
+Summary:
+This is my model of the Garmin GFC 500 autopilot module.I used this to build an autopilot panel for MSFS2020.I've included all the individual parts (box, buttons, knobs) - both the STL and FreeCAD files.I've also added the sketch for Arduino Leonardo (code not optimized, so please don't judge ;).Parts used in my build:Arduino LeonardoSimple Push Button SwitchesRotary encoders - Push Button &amp; 20 pulse Continuous Rotation (These are not the rotary encoder modules, but the standalone rotary encoders themselves which doesn't come mounted to a PCB)
